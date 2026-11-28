@@ -59,6 +59,6 @@ Install Dependencies
 
 Data is currently persistent in:
 
-```data/data.json```
+```data/db.json```
 
 
